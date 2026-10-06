@@ -1,0 +1,3 @@
+Questo programma integra tutti i concetti del Giorno 7: legge un file di testo, trasforma il contenuto in maiuscolo e scrive il risultato in un nuovo file. 
+Se il file sorgente manca, mostra un messaggio chiaro e non crasha. È un primo esempio di programma che legge, trasforma, scrive e gestisce 
+errori in modo professionale.

@@ -1,0 +1,2 @@
+Prima di scrivere un file in una cartella che potrebbe non esistere, è buona pratica assicurarsi che la struttura di directory sia già presente. 
+Files.createDirectories crea la cartella indicata 4 e tutte le eventuali cartelle intermedie 4 se non esistono già. Se esistono, non genera errori
