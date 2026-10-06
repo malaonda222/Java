@@ -1,1 +1,0 @@
-Devi creare un programma che legge il contenuto di un file.
